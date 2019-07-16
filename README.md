@@ -3,12 +3,12 @@
 Data Science tutorials ,exersisies and some small projects 
 
 
-
+### Spatial Data excersices
 1) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial%20Data%20and%20Networks%20Lab.ipynb
 
 
 
-2 ) Working with unstructured data - images and text. Information retrieval, preprocessing, and feature extraction
+### Working with unstructured data - images and text. Information retrieval, preprocessing, and feature extraction
 https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/image-text-processing/Working%20with%20Images%20and%20Text%20Lab.ipynb
 
 
@@ -26,3 +26,7 @@ https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/image-t
 
 ### gradient descent math
 6) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/Gradient_Desent.ipynb
+
+
+### operator overloading python
+https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/Operator_overloading.ipynb
