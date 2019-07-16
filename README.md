@@ -30,3 +30,7 @@ https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/image-t
 
 ### operator overloading python
 https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/Operator_overloading.ipynb
+
+
+7) DATA CLEANING EXERCISES\TUTORIAL
+### https://nbviewer.jupyter.org/github/Daodavid93/data_scientist_statistic_exercise_and_examples/blob/master/DataTydingCleaning/Data%20Tidying%20and%20Cleaning%20Lab-home.ipynb
