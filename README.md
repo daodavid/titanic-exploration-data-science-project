@@ -1,4 +1,9 @@
-# 
+
+
+Data Science tutorials ,exersisies and some small projects 
+
+
+
 1) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial%20Data%20and%20Networks%20Lab.ipynb
 
 
@@ -8,3 +13,16 @@ https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/image-t
 
 
 3) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/titanic/titanic.ipynb
+
+
+
+
+### Logistic regresion tutorial 1
+4) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/Regression%20Models%20Lab.ipynb
+
+### Linear  regresion tutorial 1
+5) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/linear-regresion-1exr.ipynb
+
+
+### gradient descent math
+6) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/Gradient_Desent.ipynb
