@@ -1,0 +1,7 @@
+dealing with missing data  - spravqn s lipsvastite  danni
+let's make an effort to fill -neka da napravim opit da gi popalnim
+we can either get rid of these data - mogem da se otarvem ot tezi dani
+Therefore, It would be unwise to replace the missing values with median, mean or mode.-sledovatelno ste bade n erazumno da zamenqmame lispvastite dani s mean ,node...
+We may be able to solve these two missing values by looking at other independent variables of the two raws. - Nie moge bi sme sposobni da razreshim tezi 2 lipsvasti stoinosti kato tarsim drugi nezavisimi promenlivi ot dva reda
+Before we dive into finding relations between-predi da se potopim v razlichnite
+how the relations may turnout among features.- Kolko vrazki ste se okagat megdu razlichni harakteristici(koloni)
