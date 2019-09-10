@@ -2,12 +2,16 @@
 
 Data Science tutorials ,exersisies and some small projects 
 
-
-## https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/projects-ds/titanic.ipynb
+Titanic data cleaning ,data analisis and hypotesis testing
+### https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/projects-ds/titanic.ipynb
 This notebook will show that there is a relation between passenger survived and their financial ability
 
 
 
+
+
+
+## Tutorial
 ### Spatial Data excersices
 1) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial%20Data%20and%20Networks%20Lab.ipynb
 ### Working with unstructured data - images and text. Information retrieval, preprocessing, and feature extraction
@@ -24,5 +28,5 @@ https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/image-t
 ### operator overloading python
 https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/ML/Operator_overloading.ipynb
 
-7) DATA CLEANING EXERCISES\TUTORIAL
+7) ### DATA CLEANING EXERCISES\TUTORIAL
 https://nbviewer.jupyter.org/github/Daodavid93/data_scientist_statistic_exercise_and_examples/blob/master/DataTydingCleaning/Data%20Tidying%20and%20Cleaning%20Lab-home.ipynb
