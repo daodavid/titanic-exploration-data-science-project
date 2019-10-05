@@ -2,18 +2,19 @@
 
 # Data Science.Titanic project and some tutorials 
 
-### Titanic data cleaning ,data analisis and hypotesis testing
-### This notebook will show that there is a relation between passenger survived and their financial ability
-### [Titanic - t-Test independent testing](https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/projects-ds/titanic.ipynb) 
+##### Titanic data cleaning ,data analisis and hypotesis testing
+##### This notebook will show that there is a relation between passenger survived and their financial ability
+## [Titanic - t-Test independent testing](https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/projects-ds/titanic.ipynb) 
 
 
 
 
 
 
-## Tutorials
+#### Tutorials
 ##### Data cleaning 
-##### https://nbviewer.jupyter.org/github/Daodavid93/data_scientist_statistic_exercise_and_examples/blob/master/DataTydingCleaning/Data%20Tidying%20and%20Cleaning%20Lab-home.ipynb
+[Data cleaning (https://nbviewer.jupyter.org/github/Daodavid93/data_scientist_statistic_exercise_and_examples/blob/master/DataTydingCleaning/Data%20Tidying%20and%20Cleaning%20Lab-home.ipynb) 
+##### 
 
 ##### Spatial Data excercisis
 ##### 1) https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/Working-with-Spatial-Data-and-Network-Analysis-Lab/Spatial%20Data%20and%20Networks%20Lab.ipynb
