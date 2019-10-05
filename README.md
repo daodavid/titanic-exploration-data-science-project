@@ -4,7 +4,7 @@
 
 ### Titanic data cleaning ,data analisis and hypotesis testing
 ### This notebook will show that there is a relation between passenger survived and their financial ability
-[Titanic - t-Test independent testing](https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/projects-ds/titanic.ipynb) 
+### [Titanic - t-Test independent testing](https://nbviewer.jupyter.org/github/Daodavid93/dataScietist/blob/develop/projects-ds/titanic.ipynb) 
 
 
 
